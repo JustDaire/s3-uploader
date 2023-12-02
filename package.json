@@ -1,0 +1,22 @@
+{
+  "name": "stackblitz-starters-zi1psd",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^20.10.2",
+    "@types/react": "18.2.39",
+    "@types/react-dom": "18.2.17",
+    "aws-sdk": "^2.1510.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
